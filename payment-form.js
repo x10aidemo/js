@@ -8,7 +8,12 @@
       pro:{p:1999,m:1799,a:1599},
       premium:{p:4999,m:4500,a:3999}
     },
-    bank:{n:'KBank',a:'123-4-56789-0',o:'บริษัท แคปแชท จำกัด'}
+    // UPDATED BANK INFO HERE
+    bank:{
+        n:'กสิกรไทย จำกัด(มหาชน)', 
+        a:'206-2-74965-5', 
+        o:'Euroform (Thailand)'
+    }
   };
 
   // --- STYLES ---
